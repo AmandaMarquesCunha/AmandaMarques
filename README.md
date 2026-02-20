@@ -47,18 +47,6 @@ Para uma visão detalhada das minhas experiências, habilidades e educação, ac
 
 ---
 
-<h2>Estatísticas</h2>
-
-<div align="center">
-<div align="side">
-<a href="https://github.com/amandamarquescunha"><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandamarquescunha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamarquescunha&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-</div>
-
----
-
 Obrigada pela visita! Estou sempre aberta a novas oportunidades e desafios. Sinta-se à vontade para entrar em contato.
 
 
